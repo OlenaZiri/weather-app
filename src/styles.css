@@ -1,0 +1,63 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #5a6275;
+}
+h1,
+h2,
+h3 {
+  font-weight: 900;
+}
+h1 {
+  font-size: 72px;
+  display: inline;
+}
+h2 {
+  font-size: 46px;
+  display: inline;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+a {
+  color: #5a6275;
+  text-decoration: none;
+}
+.container {
+  max-width: 720px;
+}
+.today-weather-icon {
+  font-size: 70px;
+  color: #cce2f3;
+  margin: 20px;
+}
+.units {
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  top: -44px;
+}
+.weather-icon {
+  font-size: 50px;
+  text-align: center;
+  color: #5a6275;
+  padding-bottom: 15px;
+  opacity: 0.7;
+}
+.celsius_small {
+  font-size: 16px;
+  font-weight: 300;
+  position: relative;
+  top: -28px;
+}
+.celsius_small:active {
+  color: blue;
+}
