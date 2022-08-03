@@ -28,7 +28,7 @@ h4 {
   font-weight: 600;
 }
 a {
-  color: #5a6275;
+  color: #0b5ed7;
   text-decoration: none;
 }
 a :hover {
@@ -63,4 +63,9 @@ a :hover {
 }
 .celsius_small:active {
   color: blue;
+}
+.footer {
+  font-weight: 100;
+  font-size: 16px;
+  font-family: sans-serif;
 }
