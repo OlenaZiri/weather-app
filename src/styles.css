@@ -31,6 +31,9 @@ a {
   color: #5a6275;
   text-decoration: none;
 }
+a :hover {
+  cursor: pointer;
+}
 .container {
   max-width: 720px;
 }
